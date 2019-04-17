@@ -1,3 +1,5 @@
+# AI-ROBOT-FZX
+静精进境
 ## 欢迎来到静精进境的博客
 
 You can use the [editor on GitHub](https://github.com/AI-ROBOT-FZX/AI-ROBOT-FZX.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
